@@ -1,4 +1,4 @@
-# eZone--mgws--2208
+# eZone--mgws--2208/scripts
 
 Public repository for the Monogramming Workshop Aug 2022
 
