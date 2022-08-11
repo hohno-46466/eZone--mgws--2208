@@ -5,9 +5,9 @@
 
 ブロック１
 
-   [スライド] (https://bit.ly/3vHNQl0)
+   * スライド	-  https://bit.ly/3vHNQl0
 
-   [コメント可] (https://bit.ly/3vKkWRc)
+   * コメント可	-  https://bit.ly/3vKkWRc
 
 ブロック２
 
