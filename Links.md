@@ -30,9 +30,9 @@
 
 参考情報
 
-   * 一般公開版 -  https://bit.ly/3SruJ8J
+   * 一般公開版 -  https://bit.ly/3ddj5hk
 
-   * コメント可	-  https://bit.ly/3JDFPU3
+   * コメント可	-  https://bit.ly/3Qp0Tj7 
 
 
 ### 当該講義中に出てきた重要なツールのダウンロード方法
