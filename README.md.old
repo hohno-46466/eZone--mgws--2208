@@ -2,7 +2,7 @@
 
 Public repository for the Monogramming Workshop Aug 2022
 
-    ./eZone--mgws--2208
+     ./eZone--mgws--2208
      ├──  Links.md
      ├──  README.md
      ├──  README.md.old
@@ -20,7 +20,7 @@ Public repository for the Monogramming Workshop Aug 2022
      └──  scripts/
          └──  README.md
      
-     4 directories, 12 files (Mon Sep  5 19:33:08 JST 2022)
+     4 directories, 12 files (Fri Sep  9 06:46:33 JST 2022)
 
 
 Please check Links.md out for more information.
